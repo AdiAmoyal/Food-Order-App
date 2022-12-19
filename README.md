@@ -3,7 +3,9 @@
 ## 📚 Description
 This app is part of React course in Udemy.</br>
 It’s a simple Dummy food order app.</br>
-There is a list of meals witch we can choose, we can add this meals to the cart, also we can change the amount and we can view the cart to see what is in the cart.
+There is a list of meals witch we can choose, we can add this meals to the cart, also we can change the amount and we can view the cart to see what is in the cart.</br>
+The meals are fetched from database and when we submit an order the order data send to database via http requests.
+
 
 ## ⚛️ Technologies Used 
 - React
